@@ -1,0 +1,9 @@
+{
+  "name": "black-hole",
+  "version-string": "1.0.0",
+  "builtin-baseline": "b6aa16c87a9f7f60ad0b3a41d40b8f70c5c8a5d2",
+  "dependencies": [
+    "glew",
+    "glm"
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  black_hole.cpp
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(27,1): error C2187: syntax error: 'int' was unexpected here
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(28,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
