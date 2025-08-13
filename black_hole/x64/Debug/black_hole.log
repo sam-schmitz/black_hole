@@ -1,11 +1,11 @@
 ﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
   black_hole.cpp
-C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(100,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(101,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(101,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(102,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(108,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(140,34): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
-C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(140,27): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(103,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(109,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(141,34): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\sschm\Documents\Coding Practice\black_hole\black_hole\black_hole.cpp(141,27): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
   black_hole.vcxproj -> C:\Users\sschm\Documents\Coding Practice\black_hole\x64\Debug\black_hole.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
